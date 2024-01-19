@@ -1,2 +1,2 @@
 # CODSOFT
-Projects when doing codsoft internship
+This repository is for CODSOFT task during Python internship.
